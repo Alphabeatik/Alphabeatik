@@ -23,7 +23,7 @@
 
 ## 📬 Контакты
 - ✉️ Email: **gmashnin@gmail.com**  
-- 🐙 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- 🐙 GitHub: [github.com/YOUR_USERNAME](https://github.com/Alphabeatik)  
 
 ---
 
