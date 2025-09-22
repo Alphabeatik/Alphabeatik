@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Alphabeatik
-- 👀 I’m interested in html, css
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# 👋 Привет, я Григорий Машнин  
 
-<!---
-Alphabeatik/Alphabeatik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Junior **SRE / DevOps Engineer**  
+📍 Москва | 🌍 Open to remote  
+🎯 Основная цель — развиваться в DevOps/SRE и работать с высоконагруженными системами  
+
+---
+
+## 🚀 Мой стек
+- 🐧 Linux (Astra Linux, Ubuntu, Debian)  
+- ⚙️ Ansible, Bash  
+- 🐳 Docker, Kubernetes (базовый уровень)  
+- 💾 Ceph, LVM, RAID  
+- 📊 Grafana, Zabbix, VictoriaMetrics  
+- ☁️ VMware, знакомство с AWS / Azure  
+
+---
+
+## 📂 Проекты
+🔗 [devops-portfolio](https://github.com/YOUR_USERNAME/devops-portfolio) — примеры Ansible, Docker, CI/CD, Bash, Monitoring  
+
+---
+
+## 📬 Контакты
+- ✉️ Email: **gmashnin@gmail.com**  
+- 🐙 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+
+---
+
+✨ Спасибо, что заглянули!  
