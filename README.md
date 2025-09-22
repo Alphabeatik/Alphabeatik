@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Проекты
-🔗 [devops-portfolio](https://github.com/YOUR_USERNAME/devops-portfolio) — примеры Ansible, Docker, CI/CD, Bash, Monitoring  
+🔗 [devops-portfolio](https://github.com/Alphabeatik/devops-portfolio) — примеры Ansible, Docker, CI/CD, Bash, Monitoring  
 
 ---
 
