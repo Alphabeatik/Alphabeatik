@@ -2,7 +2,7 @@
 
 💻 Junior **SRE / DevOps Engineer**  
 📍 Москва | 🌍 Open to remote  
-🎯 Основная цель — развиваться в DevOps/SRE и работать с высоконагруженными системами  
+🎯 Основная цель - развиваться в DevOps/SRE и работать с высоконагруженными системами  
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Проекты
-🔗 [devops-portfolio](https://github.com/Alphabeatik/devops-portfolio) — примеры Ansible, Docker, CI/CD, Bash, Monitoring  
+🔗 [devops-portfolio](https://github.com/Alphabeatik/devops-portfolio) - примеры Ansible, Docker, CI/CD, Bash, Monitoring  
 
 ---
 
